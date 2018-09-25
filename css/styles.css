@@ -1,0 +1,20 @@
+a  {
+    font-family: 'Mukta', sans-serif;
+}
+p{
+    font-family: 'Mukta', sans-serif;
+    color: #ffff;
+}
+strong{
+    font-family: 'Niconne', cursive;
+}
+a .navbar-brand {
+    font-family: 'Niconne', cursive;
+}
+#cel{
+    color: #000000;
+    font-family: 'Mukta', sans-serif;
+}
+#pm{
+    font-family: 'Niconne', cursive;
+}
