@@ -31,7 +31,7 @@ a {
 }
 
 a:hover {
-  color: #f05f40;
+  color: #fadbd8 ;
 }
 
 h1,
@@ -44,11 +44,11 @@ h6 {
 }
 
 .bg-primary {
-  background-color: #F05F40 !important;
+  background-color: #fadbd8;
 }
 
 .bg-dark {
-  background-color: #212529 !important;
+  background-color: #212529;
 }
 
 .text-faded {
