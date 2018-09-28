@@ -3,7 +3,7 @@ a  {
 }
 p{
     font-family: 'Mukta', sans-serif;
-    color: #ffff;
+    color: #9B9594;
 }
 strong{
     font-family: 'Niconne', cursive;
@@ -12,9 +12,15 @@ a .navbar-brand {
     font-family: 'Niconne', cursive;
 }
 #cel{
-    color: #000000;
+    color:  #9B9594;
     font-family: 'Mukta', sans-serif;
 }
 #pm{
     font-family: 'Niconne', cursive;
 }
+#celeste {
+color: #84EEDB,
+}
+}
+
+
